@@ -1,7 +1,7 @@
 # Chapter 3 - The direct method
 As with the grammar-translation method, the direct method is not new. Its principles have been applied by language teachers for many years.
 
-Most recently it was revived as a method when the goal of instruction became learning how to use a foreign language to communicate. Since the grammar-translation method was not very effective in preparing students to use the target [[General Engelsk Noter#IL L1 L2||Language/L2]] communicatively, the direct method became popular.
+Most recently it was revived as a method when the goal of instruction became learning how to use a foreign language to communicate. Since the grammar-translation method was not very effective in preparing students to use the target [[General English Notes#IL L1 L2||Language/L2]] communicatively, the direct method became popular.
 
 - The method has one very basic rule:
 	- No translation allowed

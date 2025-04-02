@@ -1,6 +1,9 @@
 26/3:
 [[Sheils, Joe - Communication in the M. L. C..pdf]]
 - Noter: [[Communication in the modern languages classroom]]
+02/04:
+[[Second Language Acquisition, ch. 9-10.pdf]]
+- [[second Language acquisition noter||Noter]]
 # Language and usage
 ## Links
 - http://www.laereruddannelsesnet.dk/
@@ -32,11 +35,9 @@
 
 Engelsk grammatik med synonymer:
 - [ ] Side 9-105
-[[]]
 
 [[Celce-Murcia M. - Teaching E..pdf||Teaching English as a Second or Foreign Language]]
 - [ ] Side 233 + 257-261
-
 
 [[Hadfield, Jill - Introduction to teaching English.pdf]]
 - [ ] Side 9-57

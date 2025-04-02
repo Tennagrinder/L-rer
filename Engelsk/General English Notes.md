@@ -56,6 +56,9 @@ We stopped **at** Winchester on our way to london
 - Performance/practice
 - Analysis/grammar
 
+# Universal grammar
+Universal grammar (UG), in modern linguistics, is **the theory of the innate biological component of the language faculty, usually credited to Noam Chomsky**. The basic postulate of UG is that there are innate constraints on what the grammar of a possible human language could be.
+
 ## Genstandssætninger
 En genstandssætning kan også kaldes for en bisætning
 
@@ -140,7 +143,7 @@ Engelsk har ikke grammatisk komma, men pausekomma
 2. Cooperative management
 3. Will to cooperate
 4. Skill to cooperate
-5. [[General Engelsk Noter#PIES Principles|Basic principles]] - PIES
+5. [[General English Notes#PIES Principles|Basic principles]] - PIES
 7. Structures
 
 # Fællesmål 2009 - sprog og sprogbrug
