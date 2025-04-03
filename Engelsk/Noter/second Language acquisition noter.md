@@ -1,27 +1,25 @@
 # Pages 84-86
 ## What kind of form-focused instruction works best?
-First of all a distinction is made between input-based instruction and production-based instruction. 
+A distinction is made between input-based and production-based instruction. 
 
-Production-based instruction examples would be: 
-Substitution drills, blank-filling exercies, dialogues, and games of various kinds.
+**Production-based instruction** includes substitution drills, blank-filling exercises, dialogues, and games. 
+Some SLA theories, like those of Stephen Krashen, argue that interlanguage is driven by input rather than output. 
+[Stephen Krashen on Language Acquisition](https://www.youtube.com/watch?v=NiTsduRreug)
 
-However, some theories of SLA see interlanguage as driven by input rather than output.
-Much like Stephen krashen proposes in this video: [Stephen Krashen on Language Acquisition](https://www.youtube.com/watch?v=NiTsduRreug)
 ![[Lærer/Engelsk/Modeller_Drawings/Drawing 2025-04-02 12.56.23.excalidraw]] 
 
-### An experimental study carried out by Bill VanPatten and Teresa Cadierno:
-One group of learners was exposed to traditional production-based instruction and another to input-based instruction where they had to listen to and respond to sentences containing the target structure. At the end of the instruction, both groups completed two tests, one a test of production and the other a test of comprehension. The group that received the input-based instruction did far better on the comprehension test and just as well on the production test.
+### Experimental Study by Bill VanPatten and Teresa Cadierno:
+Two groups were compared: one with production-based instruction and another with input-based instruction focused on listening and responding to target structures. The input-based group performed better on comprehension tests and equally on production tests, suggesting that input processing is effective in form-focused instruction.
 
-The study suggests that form-focused instruction emphasizes input processing may be very effective. It also supports theories of [[General English Notes#IL L1 L2||L2]] acquisition that emphasize the role of conscious noticing in input; input-based instruction may work because it induces noticing in learners.
+### Consciousness-Raising
+This involves making learners aware of specific linguistic features through positive or negative evidence. Children primarily rely on positive evidence, which may not provide enough information for mastering their [[General English Notes#IL L1 L2||L1]], supporting the concept of [[General English Notes#Universal grammar||Universal Grammar (UG)]]. 
 
-### Consciousness-raising
-Refers to the attempts to make learners aware of the existence of specific linguistic features in the target language. One way to do that is by supplying the learner with positive evidence. 
-An alternative approach is to provide negative evidence. 
-The text then suggests that children almost exclusively rely on positive evidence, which evidence shows, fails to supply the information children need to master their [[General English Notes#IL L1 L2||L1]] constitutes a major argument in support of the existence of [[General English Notes#Universal grammar||UG]]. 
-The issue in SLA then, is whether adult [[General English Notes#IL L1 L2||L2]] learners can also learn from positive evidence or do they require negative evidence.
+A study by Martha Trahey and Lydia White tested positive input on eleven-year-old French learners of [[General English Notes#IL L1 L2||L2]] English. While learners improved in using subject-adverb-verb-object (SAVO) sentences, they still made errors, indicating that positive evidence alone may not be sufficient for resetting grammatical parameters.
 
-To test whether positive input is sufficient, Martha Trahey and Lydia White designed a study in which eleven-year-old French learners of L2 English were given instruction where they were ‘flooded’ with input containing adverb sentences over a two-week period. The children were not given any explicit information about adverb sentences or any negative feedback (i.e. they were not corrected). In one respect, the positive evidence worked. The learners showed a dramatic increase in the use of subject_adverb_verb—object (SAVO) sentences, for example: 
-	Anne quietly watched the television. 
-In another respect, however, it did not work, as the learners continued to make errors by inserting the adverb between the verb and direct object (SVAO), as in: 
-	Anne watched quietly the television. 
-This suggests that positive evidence is not sufficient to reset a parameter and, perhaps, that UG is not available to L2 learners of
+#### Positive and negative input/evidence
+**Positive:**
+- **Definition**: Positive evidence refers to the exposure learners receive to correct forms and structures in the target language. It includes examples of how language is used correctly, which helps learners understand what is acceptable in the language.
+- **Example**: Hearing sentences like "She quickly ran to the store" provides learners with a model of correct sentence structure and usage.
+**Negative**
+- **Definition**: Negative evidence involves feedback that indicates what is incorrect or unacceptable in the target language. It helps learners recognize errors and understand the boundaries of grammatical structures.
+- **Example**: If a learner says "She runned to the store," being told that "runned" is incorrect and that the correct form is "ran" serves as negative evidence.

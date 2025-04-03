@@ -3,7 +3,9 @@
 - Noter: [[Communication in the modern languages classroom]]
 02/04:
 [[Second Language Acquisition, ch. 9-10.pdf]]
-- [[second Language acquisition noter||Noter]]
+- [[Second Language acquisition noter||Noter]]
+**SKAL LÆSES, FORSTÅS OG FORMIDLES**
+- **Nr. 10, Vol. 4, 1998 side 7-13 Tema: Sprogtilegnelse; Input – output – interaktion, Kirsten Haastrup**
 # Language and usage
 ## Links
 - http://www.laereruddannelsesnet.dk/

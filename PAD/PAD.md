@@ -179,3 +179,13 @@ Vedhæftet nedenfor
 ## Ressourcer og aktiviteter:
 
 
+# TEMA 16: Dannelse - Klafkis grundbegreber og dannelsesteoretisk-didaktik
+## Forberedelse:
+- [ ] Pædagogik og almen didaktik (s.159-178)
+## Program:
+Introduktion til ny lærer: Jens
+Undervisningens indhold
+- Med fokus på Klafki og dannelsesteoretisk afsæt
+## Ressourcer og aktiviteter:
+- [ ] [[Undervisningens indhold - fokus på Klafki og et dannelsesteoretisk afsæt.pdf]]
+- [ ] Noter til dagen
