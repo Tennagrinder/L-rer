@@ -74,3 +74,24 @@ Han mente, at ægte dannelse opstår, når eleven både tilegner sig vigtig vide
 		- Eksempel: at tænke selv og handle selvstændigt ved at lade eleverne være mere aktive og eksperimenterende i læreprocessen
 	- Med begrebet ”Kategorial dannelse” forsøger Klafki at bygge bro mellem indlæring og opdragelse
 
+# Valg af indhold baseret på dagens undervisning
+Vi har været i praktik i en fjerde-klasse og har deltaget i et undervisningsforløb baseret på: 
+Pitstop - topic book (tekster) & task book (opgaver)
+Specifikt emnet "pets"
+
+Man sætte det ind i et dannelsesteoretisk skema således:
+- Betydning her og nu
+	- Mange af børnene har selv kæledyr, hvis ikke de selv har, kender de nogen der har. 
+	- Der opnås dermed en nutidig kontekst baseret mulighed for at lærer et andet sprog.
+- Betydning i fremtiden
+	- Den direkte indholdsmæssige læring kan ikke 100% forsvares, men den indirekte andetsprogslæring, er og bliver relevant for elevens evne til at udtrykke sig, beskrive og grammatiske evner
+- Eksemplarisk betydning
+	- Indholdet i både topic book og task book, er simpelt men eksemplarisk for hvordan man kan tale om og interagere med kæledyr på engelsk. 
+- Tematisk struktur
+	- Intentionerne stemmer meget overens med forudsætninger. Det virker til at indhold og specifikt niveau er velovervejet ift. En fjerde klasse. 
+	  Demokratisk dannelse er dog ikke rigtigt at finde. Eleverne laver essentielt bare fabriksarbejde i task book'en. Dog er der en tekst i topic book'en som handler om at to børn skal vælge et kæledyr, hvor de bliver nødt til at være enige og valget af kæledyret skal også imødekomme mors og fars behov.
+- Processtruktur
+	- Læsning, skrivning
+	- Fill in the blanks, "understregning", fri skrivning, tegning.
+- Tilgængelighed
+	- Indholdet tager ikke specielt hensyn til forudsætninger og potentialer bortset fra at være tilpasset klassemæssigt niveau 
