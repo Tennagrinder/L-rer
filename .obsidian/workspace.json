@@ -1,0 +1,285 @@
+{
+  "main": {
+    "id": "9ccd5e2f1bcd6b32",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f0b99b1029a1d65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "565aeccc3517d6d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lærer/Engelsk/Noter/Sprogforum Nr. 10, Vol. 4, 1998, Kirsten Haastrup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sprogforum Nr. 10, Vol. 4, 1998, Kirsten Haastrup"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7f654540cb6a76c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a3811a6412d3700",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dd481c7dbf4bb98",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c4bd96fa3406fbb5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "competence",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bb35224e24147df9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.5
+  },
+  "right": {
+    "id": "fb482dd4f82355ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "97f587e88360ec95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c64e90774fa904b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "7527b9654b7918ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "b9a1ea41e7242cd3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d01e2eb0d5ac0415",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lærer/Retorik kursus/Ted Talk.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Ted Talk"
+            }
+          },
+          {
+            "id": "c15e8d6035b44fab",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "95d7b5d5aab35ce6",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "f8819ac47147df08",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "6a407c6ba98f8c83",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chat-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5c413682afa3e7fd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 512.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "password-protection:Unlock password protection": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "mood-tracker:Open Mood Tracker": false,
+      "mood-tracker:Open Mood Tracking History": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "system3-relay:Relay": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
+    }
+  },
+  "active": "565aeccc3517d6d7",
+  "lastOpenFiles": [
+    "Lærer/Engelsk/Ressourcer/Litteratur/Sprogfagenes didaktik.md",
+    "Lærer/Engelsk/Noter/Sprogforum Nr. 10, Vol. 4, 1998, Kirsten Haastrup.md",
+    "Lærer/Engelsk/Noter/Communication in the modern languages classroom.md",
+    "Lærer/Engelsk/Engelsk.md",
+    "Lærer/Engelsk/Købe engelsk bøger.md",
+    "Life.md",
+    "Lærer/Retorik kursus/Tale øvelse.md",
+    "Lærer/Retorik kursus/Taleworkshop.pdf",
+    "Lærer/Retorik kursus/Taleworkshop.pdf.crdownload",
+    "Lærer/Retorik kursus/Ted Talk.md",
+    "desktop.ini",
+    "Lærer/Retorik kursus/SlideStyle/SlideTheme.md",
+    "Lærer/Retorik kursus/SlideStyle/SlideTheme.html",
+    "Lærer/Retorik kursus/Retorik dag 1.pdf",
+    "Lærer/Retorik kursus/SlideStyle/Theme.css.md",
+    "Lærer/Retorik kursus/SlideStyle/Theme.css",
+    "Lærer/Retorik kursus/SlideStyle",
+    "Lærer/Engelsk/Noter/Second Language acquisition noter.md",
+    "Lærer/Idræt/Ressourcer/Boldspilsundervisning.pdf",
+    "Lærer/Idræt/Lege.md",
+    "Lærer/Idræt/Billeder til portfolio/Flow.md",
+    "Lærer/Untitled.md",
+    "Lærer/Retorik kursus/msoF0BC.tmp",
+    "Lærer/Retorik kursus/~$Retorik dag 1.pptx",
+    "Lærer/Livsoplysning/Billeder/Pasted image 20240912092822.png",
+    "Lærer/PAD/Billeder/IMG_20241129_093726.jpg",
+    "Lærer/PAD/Billeder/IMG_20241122_105905.jpg",
+    "Journal/2025-04-09.md",
+    "Lærer/Engelsk/Billeder/Pasted image 20241006210801.png",
+    "Lærer/Engelsk/Billeder/Pasted image 20241006144424.png",
+    "Lærer/Engelsk/Billeder/Pasted image 20241006142022.png",
+    "Lærer/Engelsk/Billeder/Pasted image 20241006123222.png",
+    "Lærer/Engelsk/Billeder/Pasted image 20241024125427.png",
+    "Lærer/Idræt/Billeder/Pasted image 20241111133752.png",
+    "Lærer/Idræt/Billeder/Pasted image 20241111133401.png",
+    "Journal/2025-04-08.md",
+    "Lærer/Idræt/Idræt 1. Semester.md",
+    "Lærer/Idræt/Idræts Portfolio Obsidian.md",
+    "Lærer/Idræt/Billeder til portfolio/Kaosbold bane opsætning.md",
+    "Lærer/Idræt/Billeder til portfolio/Drawing 2025-04-04 14.26.06.excalidraw.md",
+    "Templates/Idræt template.md",
+    "Lærer/PAD/PAD noter/Tema 16 - Dannelse - Klafkis grundbegreber og dannelsesteoretisk-didaktik.md",
+    "Journal/2025-04-04.md",
+    "Lærer/PAD/Litteratur/Pædagogik & Almen Didaktik.md",
+    "Lærer/PAD/PAD.md",
+    "Journal/2025-04-03.md",
+    "Untitled.canvas"
+  ]
+}
