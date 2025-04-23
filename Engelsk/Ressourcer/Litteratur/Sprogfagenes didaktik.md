@@ -48,7 +48,7 @@ It's not only about grammatic, but also social and cultural application of the l
 Four main components defined by michael Canale & Merril Swain in 1980
 
 1. Grammatical competence
-2. Sociolinguistic competence - friend vs. authority
+2. Sociolinguistic competence - friend vs. authority (using the right words in the right context)
 3. Discourse competence - Conversation, logic, listening, asking questions
 4. Strategical competence - the ability to handle lacking vocabulary
 
