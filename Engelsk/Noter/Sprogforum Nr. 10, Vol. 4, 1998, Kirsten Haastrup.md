@@ -1,3 +1,4 @@
+[[Sprogforum Nr. 10, Vol. 4, 1998, Kirsten Haastrup.pdf]]
 # Lad dem lytte metoden
 Eleven får tid og plads til blot at lytte eller læse materiale og på den måde fordybe sig i forståelsen af et L2. 
 
