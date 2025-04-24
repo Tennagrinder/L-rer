@@ -189,3 +189,17 @@ Undervisningens indhold
 ## Ressourcer og aktiviteter:
 - [ ] [[Undervisningens indhold - fokus på Klafki og et dannelsesteoretisk afsæt.pdf]]
 - [ ] Noter til dagen
+
+# Tema 17: Dannelse gennem musik og bevægelse
+## Forberedelse:
+- [ ] Læs [[Musikken i Paedagogikken Kap.5.pdf]]
+## Program:
+Vi samler op på undervisningen fra før påske, hvor vi havde fokus på dannelse gennem valg af indhold, herunder særligt fokus Klafkis begreber.
+
+Til dagens undervisning er der mere fokus på dannelse gennem musik og bevægelse, dog fortsat med inddragelse af Klafkis begreber.  Vi afslutter undervisningen med at diskutere og eksemplificere, hvilket undervisningsprincipper- og mønstre, som måske kan understøtte en oplevelses- og sansebaseret tilgang til undervisning.
+## Ressourcer og aktiviteter:
+- [ ] [[Musikken i Paedagogikken Kap.5.pdf]]
+- [ ] [[PADj MUsikken i pædagogikken - herunder valg undervisningsmønstre og arbejdsformer.pdf]]
+## Noter og produkter fra dagen
+[[Brainstorm-Valg af indhold i et dennelsesteoretisk perspektiv]]
+[[Musikken i pædagogikken spørgsmål]]
