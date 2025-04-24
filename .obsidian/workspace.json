@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7f0b99b1029a1d65",
+        "id": "bcbb37747961d4ba",
         "type": "tabs",
         "children": [
           {
-            "id": "565aeccc3517d6d7",
+            "id": "102c3868b36991bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lærer/Engelsk/Noter/Sprogforum Nr. 10, Vol. 4, 1998, Kirsten Haastrup.md",
+                "file": "PAD/PAD Aktiviteter/Musikken i pædagogikken spørgsmål.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sprogforum Nr. 10, Vol. 4, 1998, Kirsten Haastrup"
+              "title": "Musikken i pædagogikken spørgsmål"
             }
           }
         ]
@@ -157,8 +157,8 @@
             "state": {
               "type": "full-calendar-view",
               "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -167,8 +167,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -197,8 +197,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -211,29 +211,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "password-protection:Unlock password protection": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
-      "copilot:Open Copilot Chat": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "mood-tracker:Open Mood Tracker": false,
       "mood-tracker:Open Mood Tracking History": false,
+      "password-protection:Unlock password protection": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "system3-relay:Relay": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "565aeccc3517d6d7",
+  "active": "102c3868b36991bc",
   "lastOpenFiles": [
+    "PAD/PAD DASHBOARD.md",
+    "data/mood-tracker-data.json",
+    "data",
     "Lærer/Engelsk/Ressourcer/Litteratur/Sprogfagenes didaktik.md",
     "Lærer/Engelsk/Noter/Sprogforum Nr. 10, Vol. 4, 1998, Kirsten Haastrup.md",
     "Lærer/Engelsk/Noter/Communication in the modern languages classroom.md",
@@ -256,8 +255,6 @@
     "Lærer/Idræt/Lege.md",
     "Lærer/Idræt/Billeder til portfolio/Flow.md",
     "Lærer/Untitled.md",
-    "Lærer/Retorik kursus/msoF0BC.tmp",
-    "Lærer/Retorik kursus/~$Retorik dag 1.pptx",
     "Lærer/Livsoplysning/Billeder/Pasted image 20240912092822.png",
     "Lærer/PAD/Billeder/IMG_20241129_093726.jpg",
     "Lærer/PAD/Billeder/IMG_20241122_105905.jpg",
@@ -279,7 +276,6 @@
     "Journal/2025-04-04.md",
     "Lærer/PAD/Litteratur/Pædagogik & Almen Didaktik.md",
     "Lærer/PAD/PAD.md",
-    "Journal/2025-04-03.md",
     "Untitled.canvas"
   ]
 }
