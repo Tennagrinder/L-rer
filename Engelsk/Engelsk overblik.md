@@ -6,6 +6,7 @@
 - [[Second Language acquisition noter||Noter]]
 **SKAL LÆSES, FORSTÅS OG FORMIDLES**
 - **Nr. 10, Vol. 4, 1998 side 7-13 Tema: Sprogtilegnelse; Input – output – interaktion, Kirsten Haastrup**
+30/04: Paul nation fra dagen og ugen før
 # Language and usage
 ## Links
 - http://www.laereruddannelsesnet.dk/
@@ -96,3 +97,23 @@ Engelsk grammatik med synonymer:
 
 [Criteria for identifying tasks for TBL | TeachingEnglish | British Council](https://www.teachingenglish.org.uk/professional-development/teachers/knowing-subject/articles/criteria-identifying-tasks-tbl)
 - [ ] 4 normalsider
+
+
+Diaper
+Parole
+Sophomores
+Orchids
+Secretions
+Evacuations
+Felicity
+Predicament
+Deacon
+Whipped
+Smoldering
+Mutilated
+Basking
+Pillaged
+Impeded
+Indolent
+Obsolete
+Wily
