@@ -2,14 +2,14 @@
 # Framework of Vocabulary Learning Conditions
 This framework outlines the critical factors that influence how vocabulary is acquired and retained, emphasizing the interplay between repetition, attention, and context.
 
-| **Repetition**                                                   | **= Number of Encounters** | **Quality of Attention** |
-| ------------------------------------------------------------ | -------------------------- | ------------------------ |
-| **Repetition**                                         | First encounter + repetitions | Essential for retention; more encounters lead to stronger memory traces. |
-| **Quality of Attention**                                         | Incidental learning enhances retention through passive exposure. | Deliberate focus fosters deeper understanding and retention of vocabulary. |
-| **Noticing**                                                     | Awareness of new words is vital for effective learning; learners must notice words in context. |                        |
-| **Retrieval (Receptive or Productive)**                          | Active recall strengthens both memory and usage; retrieval practice is key to solidifying knowledge. |                        |
-| **Varied Encounters (Receptive) or Varied Use (Productive)** | Exposure in diverse contexts improves adaptability and application of vocabulary. |                        |
-| **Elaboration (Receptive or Productive)**                        | Connecting new words to existing knowledge enhances recall and understanding. |                        |
+| **Repetition**                                                   | **= Number of Encounters**                                                                           | **Quality of Attention**                                                   |
+| ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| **Repetition**                                                   | First encounter + repetitions                                                                        | Essential for retention; more encounters lead to stronger memory traces.   |
+| **Quality of Attention**                                         | Incidental learning enhances retention through passive exposure.                                     | Deliberate focus fosters deeper understanding and retention of vocabulary. |
+| **Noticing**                                                     | Awareness of new words is vital for effective learning; learners must notice words in context.       |                                                                            |
+| **Retrieval (Receptive or Productive)**                          | Active recall strengthens both memory and usage; retrieval practice is key to solidifying knowledge. |                                                                            |
+| **Varied Encounters (Receptive) or <br>Varied Use (Productive)** | Exposure in diverse contexts improves adaptability and application of vocabulary.                    |                                                                            |
+| **Elaboration (Receptive or Productive)**                        | Connecting new words to existing knowledge enhances recall and understanding.                        |                                                                            |
 
 ## Analysis of Quality of Attention
 This section examines how focused engagement influences vocabulary learning outcomes, highlighting the importance of both incidental and deliberate learning strategies.

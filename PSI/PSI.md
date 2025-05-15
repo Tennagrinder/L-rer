@@ -182,3 +182,4 @@ Vi bliver klogere på, hvordan den skolepolitiske dagsorden har rykket sig og hv
 ## Ressourcer
 - [ ] [[Casen om Emil.pdf]]
 - [ ] [[8. uv. 2. sem. PSI, 24s.pdf]]
+
